@@ -19,7 +19,7 @@ OneDrive (previously SkyDrive, Windows Live SkyDrive, and Windows Live Folders) 
 
 
 
-![GitHub Logo](/onedrive.png)
+![GitHub Logo](/data/onedrive.png)
 
 
 
