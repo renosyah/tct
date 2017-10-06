@@ -11,12 +11,29 @@ As with most other distributed version control systems, and unlike most client–s
 
 * create repository in github
 
+![GitHub Logo](/materi03/image/1.png)
+
+
 * open cmd ,go to your workspace directory then type 'git init'
+
+![GitHub Logo](/materi03/image/2.png)
+
 
 * type 'git add -A'
 
+![GitHub Logo](/materi03/image/3.png)
+
+
 * then type 'git commit -m "my first repo"
+
+![GitHub Logo](/materi03/image/4.png)
 
 * the type git remote or just copy 'command line text' from your new repo
 
+![GitHub Logo](/materi03/image/5.png)
+
+
 * then finally type 'git push -u origin master'
+
+![GitHub Logo](/materi03/image/6.png)
+
